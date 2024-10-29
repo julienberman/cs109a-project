@@ -64,11 +64,11 @@ micromamba activate cs109a-project
     - F202	Whenever science and religion conflict, religion is always right
 
 Uncategorized
-- A170	Satisfaction with your life
-- A173	How much freedom of choice and control
-- B008	Protecting environment vs. Economic growth
-- C006	Satisfaction with financial situation of household
-- D060	University is more important for a boy than for a girl
-- E221B	Political action recently done: Attending peaceful/lawful demonstrations
-- E222	Political action: Other
-- E222B	Political action recently done: Other
+    - A170	Satisfaction with your life
+    - A173	How much freedom of choice and control
+    - B008	Protecting environment vs. Economic growth
+    - C006	Satisfaction with financial situation of household
+    - D060	University is more important for a boy than for a girl
+    - E221B	Political action recently done: Attending peaceful/lawful demonstrations
+    - E222	Political action: Other
+    - E222B	Political action recently done: Other
