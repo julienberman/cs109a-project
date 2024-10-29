@@ -17,3 +17,58 @@ conda activate cs109a-project
 micromamba create -f environment.yml
 micromamba activate cs109a-project
 ```
+
+### WVS Question Categories
+
+- Work Ethic
+    - A005: Important in life: Work
+    - E040: Hard work brings success
+    - A030: Important child qualities: Hard work
+    - E040	Hard work brings success
+    - C008	Work compared with Leisure
+
+- Trust
+    - A165	Most people can be trusted
+    - G007_18_B	Trust: Your neighborhood (B)
+    - G007_33_B	Trust: People you know personally (B)
+    - G007_34_B	Trust: People you meet for the first time (B)
+    - G007_35_B	Trust: People of another religion (B)
+    - G007_36_B	Trust: People of another nationality (B)
+
+- Equality / Tolerance
+    - A124_02 Neighbours: People of a different race
+    - A124_06	Neighbours: Immigrants/foreign workers
+    - A105	Active/Inactive membership of charitable/humanitarian organization
+    - E124	Respect for individual human rights nowadays
+    - D078	Men make better business executives than women do
+    - D059	Men make better political leaders than women do
+    - C001	Jobs scarce: Men should have more right to a job than women (3 categories)
+    - E233	Democracy: Women have the same rights as men.
+    - E069_40	Confidence: Charitable or humanitarian organizations
+    - C002	Jobs scarce: Employers should give priority to (nation) people than immigrants (3 categories)
+
+
+
+- Religion
+    - A040: Important child qualities: religious faith
+    - A098: Active/Inactive membership of church or religious organization
+    - E069_01	Confidence: Churches
+    - E220	We depend too much on science and not enough on faith
+    - F028	How often do you attend religious services
+    - F028B	How often to you pray
+    - F034	Religious person
+    - F050	Believe in: God
+    - F063	How important is God in your life
+    - F199	Justifiable: For a man to beat his wife
+    - F203	The only acceptable religion is my religion
+    - F202	Whenever science and religion conflict, religion is always right
+
+Uncategorized
+- A170	Satisfaction with your life
+- A173	How much freedom of choice and control
+- B008	Protecting environment vs. Economic growth
+- C006	Satisfaction with financial situation of household
+- D060	University is more important for a boy than for a girl
+- E221B	Political action recently done: Attending peaceful/lawful demonstrations
+- E222	Political action: Other
+- E222B	Political action recently done: Other
