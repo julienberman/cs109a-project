@@ -24,7 +24,6 @@ micromamba activate cs109a-project
     - A005: Important in life: Work
     - E040: Hard work brings success
     - A030: Important child qualities: Hard work
-    - E040	Hard work brings success
     - C008	Work compared with Leisure
 
 - Trust
@@ -47,8 +46,6 @@ micromamba activate cs109a-project
     - E069_40	Confidence: Charitable or humanitarian organizations
     - C002	Jobs scarce: Employers should give priority to (nation) people than immigrants (3 categories)
 
-
-
 - Religion
     - A040: Important child qualities: religious faith
     - A098: Active/Inactive membership of church or religious organization
@@ -63,7 +60,7 @@ micromamba activate cs109a-project
     - F203	The only acceptable religion is my religion
     - F202	Whenever science and religion conflict, religion is always right
 
-Uncategorized
+- Uncategorized
     - A170	Satisfaction with your life
     - A173	How much freedom of choice and control
     - B008	Protecting environment vs. Economic growth
