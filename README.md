@@ -34,31 +34,37 @@ micromamba activate cs109a-project
     - G007_35_B	Trust: People of another religion (B)
     - G007_36_B	Trust: People of another nationality (B)
 
-- Equality / Tolerance
-    - A124_02 Neighbours: People of a different race
-    - A124_06	Neighbours: Immigrants/foreign workers
-    - A105	Active/Inactive membership of charitable/humanitarian organization
-    - E124	Respect for individual human rights nowadays
-    - D078	Men make better business executives than women do
-    - D059	Men make better political leaders than women do
-    - C001	Jobs scarce: Men should have more right to a job than women (3 categories)
-    - E233	Democracy: Women have the same rights as men.
-    - E069_40	Confidence: Charitable or humanitarian organizations
-    - C002	Jobs scarce: Employers should give priority to (nation) people than immigrants (3 categories)
+- Equality
+    - Gender
+        - D078	Men make better business executives than women do
+        - D059	Men make better political leaders than women do
+        - C001	Jobs scarce: Men should have more right to a job than women (3 categories)
+        - E233	Democracy: Women have the same rights as men.
+        - F199	Justifiable: For a man to beat his wife
+    - General Tolerance
+        - A124_02 Neighbours: People of a different race
+        - A124_06	Neighbours: Immigrants/foreign workers
+        - A105	Active/Inactive membership of charitable/humanitarian organization
+        - E124	Respect for individual human rights nowadays
+        - E069_40	Confidence: Charitable or humanitarian organizations
+        - C002	Jobs scarce: Employers should give priority to (nation) people than immigrants (3 categories)
 
 - Religion
-    - A040: Important child qualities: religious faith
-    - A098: Active/Inactive membership of church or religious organization
-    - E069_01	Confidence: Churches
-    - E220	We depend too much on science and not enough on faith
-    - F028	How often do you attend religious services
-    - F028B	How often to you pray
-    - F034	Religious person
-    - F050	Believe in: God
-    - F063	How important is God in your life
-    - F199	Justifiable: For a man to beat his wife
-    - F203	The only acceptable religion is my religion
-    - F202	Whenever science and religion conflict, religion is always right
+    - Involvement
+        - A040: Important child qualities: religious faith
+        - A098: Active/Inactive membership of church or religious organization
+        - E069_01	Confidence: Churches
+        - F028	How often do you attend religious services
+        - F028B	How often to you pray
+        - F034	Religious person
+        - F050	Believe in: God
+        - F063	How important is God in your life
+    - Extremism
+        - F203	The only acceptable religion is my religion
+        - F202	Whenever science and religion conflict, religion is always right
+        - E220	We depend too much on science and not enough on faith
+
+    
 
 - Uncategorized
     - A170	Satisfaction with your life
