@@ -9,11 +9,11 @@ For Conda/Micromamba Users:
 - Create and activate the environment:
 
 ```bash
-conda env create -f source/lib/environment.yml
-conda activate ocr-election-data
+conda env create -f environment.yml
+conda activate cs109a-project
 ```
 
 ```bash
-micromamba create -f source/lib/environment.yml
-micromamba activate ocr-election-data
+micromamba create -f environment.yml
+micromamba activate cs109a-project
 ```
