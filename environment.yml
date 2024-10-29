@@ -1,0 +1,22 @@
+name: cs109a-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - r-base
+  - r-ggplot2
+  - pytorch
+  - torchvision
+  - opencv
+  - pdf2image
+  - tesseract
+  - pip:
+    - pytesseract
+    - easyocr
+    - fuzzywuzzy
+    - python-Levenshtein
+    - matplotlib
