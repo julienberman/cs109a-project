@@ -24,7 +24,7 @@ micromamba activate cs109a-project
     - A005: Important in life: Work
     - E040: Hard work brings success
     - A030: Important child qualities: Hard work
-    - C008	Work compared with Leisure
+    - A104:	Active/inactive membership of professional organization
 
 - Trust
     - A165	Most people can be trusted
