@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Summary Statistics}
+\begin{tabular}{lccccccc}
+\hline
+\hline
+Variable & Democracy & Work Ethic & Trust & Equality & Religion & GDP per Capita & Human Dev. \\
+\hline
+Mean & 5.87 & 1.68 & 2.41 & 2.16 & 3.21 & 16,022 & 0.75 \\
+Std. Dev. & (2.08) & (0.27) & (0.24) & (0.17) & (0.34) & (19,687) & (0.14) \\
+[0.5em]
+Minimum & 1.74 & 1.01 & 1.43 & 1.58 & 2.09 & 240 & 0.34 \\
+Median & 6.03 & 1.68 & 2.44 & 2.18 & 3.21 & 6,528 & 0.76 \\
+Maximum & 9.66 & 2.71 & 2.93 & 2.73 & 4.20 & 85,502 & 0.95 \\
+\hline
+Observations & 267 & 267 & 267 & 267 & 267 & 267 & 267 \\
+\hline
+\hline
+\multicolumn{8}{p{7in}}{\footnotesize \textit{Notes:} The sample includes 89 countries over 3 time periods. GDP per capita is in constant 2010 US dollars. The Democracy Index ranges from 0 (least democratic) to 10 (most democratic). The Human Development Index ranges from 0 (least developed) to 1 (most developed). Work ethic, trust, equality and religion are standardized indices ranging from 1-5. } \\
+\end{tabular}
+\label{tab:summary}
+\end{table}
